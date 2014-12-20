@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ibnutri/arduino-node",
   "dependencies": {
-    "johnny-five": "*"
+    "johnny-five": "*",
+    "node-gamepad": "*",
+    "starfox": "0.0.1"
   }
 }
